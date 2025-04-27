@@ -1,2 +1,1 @@
-# transfer_lsptk
-transfer app for lsptk
+# TRANSFER LSPTK TELAH TAMAT
